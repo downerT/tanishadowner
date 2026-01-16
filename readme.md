@@ -1,30 +1,58 @@
-# Hi, I'm Zach Wilson! Welcome to my GitHub! 👋
+# Hi, I'm Tanisha Downer! Welcome to my GitHub! 👋
 
-As a **Lecturer of Computer Science at Oakland City University**, I lead the Computer Science, Cybersecurity, and Information Technology programs while teaching a diverse range of undergraduate and graduate courses. I am passionate about integrating current research and industry trends into my teaching, fostering inclusive learning environments, and preparing students for successful careers in technology.
+As a **Computer Science student at Oakland City University**, I focus on developing strong foundations in computer science, cybersecurity, and information technology while gaining hands-on experience through internships and campus leadership roles. My academic and professional interests center on applying technical knowledge to real-world problems through data-driven solutions, system optimization, and process improvement.
 
-Beyond the classroom, I serve as **Communications Committee Chair and Webmaster for IEEE Region 4**, where I lead regional communication strategy and maintain the digital presence for one of IEEE's largest geographic regions. I also founded **Wilson's Media LLC**, providing consulting services in IT, data analytics, and business operations.
+Alongside my coursework, I have gained practical experience as a **Ticket Workflow Coordinator Intern**, where I support IT service operations by managing ticket workflows, monitoring SLA compliance, and building Power BI dashboards to improve visibility and efficiency. I also bring experience in infrastructure support, cloud technologies, and automation from previous internships, working with tools such as Azure, PowerShell, and network monitoring platforms.
 
-I am committed to advancing computer science education, contributing to academic discourse through peer review and publications, and bridging the gap between academia and industry practice.
+I am passionate about continuous learning, bridging the gap between theory and practice, and building solutions that improve operational performance. My goal is to pursue a career in technology where I can combine analytical thinking, technical expertise, and collaboration to create impactful, scalable systems.
 
 ## 🎓 Education
 
-**EdD in Organizational Management** (In Progress, Expected May 2029)  
+**Bachelor of Science in Computer Science** (In Progress, Expected May 2026)  
 Oakland City University
 
-**Master of Science in Information and Communication Sciences** (December 2025)  
-Ball State University
+**Minor in Creative Technologies** (In Progress, Expected May 2026)  
+Oakland City University 
 
-**Master of Business Administration** (December 2024)  
-Ball State University
 
-**Bachelor of Science in Computer Science** (May 2023)  
-Indiana University–Purdue University Indianapolis
+## 💼 Internship Experience
+**Ticket Workflow Coordinator Intern — Parrish Consulting Services**
+**December 2025 – Present**
 
-My interdisciplinary background spanning computer science, business administration, information systems, and organizational management provides a unique perspective on technology's role in modern organizations and society.
+Coordinated intake, prioritization, and assignment of IT service tickets using **ConnectWise PSA** across multiple service teams
 
-## 👨‍🏫 Teaching Experience
+Monitored **ticket aging, SLA compliance, and workflow efficiency** through **Power BI** and **BrightGauge** dashboards
 
-### Oakland City University — Lecturer of Computer Science (August 2025 - Present)
+Built and maintained **data-driven reports** in **Power BI** and **Excel** to track ticket status, ownership, and service performance
+
+Supported **process improvement initiatives** by identifying workflow bottlenecks and inconsistencies
+
+Collaborated with **technicians and leadership** to improve visibility, accountability, and response times
+
+
+**IT & Infrastructure Intern — GCM Grosvenor**
+**June 2025 – August 2025**
+
+Provided IT support across **physical and virtual environments**, resolving hardware, software, and network issues
+
+Supported **Azure infrastructure operations**, including **VM setup**, **IAM**, and **hybrid monitoring**
+
+Created **MDT workstation images** and assisted with **device deployment automation**
+
+Monitored network performance using **SolarWinds**, developing **custom alerts** and **dashboards**
+
+Authored **technical documentation** for recurring issues and operational procedures
+
+
+**Tech@Lilly Intern — Eli Lilly and Company**
+June 2022 – August 2022
+
+Collaborated with cross-functional teams to develop **Power BI visualizations** for audit trail reporting
+
+Documented and optimized **audit processes**, saving **30+ hours annually** through workflow improvements
+
+Supported **data analysis and reporting** initiatives to enhance compliance visibility
+
 
 **Undergraduate Courses:**
 - CS 111/125: Programming for Everyone I & II
@@ -35,8 +63,6 @@ My interdisciplinary background spanning computer science, business administrati
 - CS 480: Senior Capstone
 - BUS 206: Management Information Systems
 
-**Graduate Courses:**
-- MBA 525: Information Systems
 
 **Leadership Responsibilities:**
 - Lead the Computer Science, Cybersecurity, and Information Technology programs
